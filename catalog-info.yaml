@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: udemy-github-action
+  description: udemy-github-action
+spec:
+  type: service
+  owner: team-a
