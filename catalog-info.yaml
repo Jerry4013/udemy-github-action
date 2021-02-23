@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: udemy-github-action
   description: udemy-github-action
+  annotations:
+    github.com/project-slug: 'Jerry4013/udemy-github-action'
 spec:
   type: service
   owner: team-a
